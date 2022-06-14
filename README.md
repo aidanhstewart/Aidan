@@ -1,4 +1,5 @@
 # Hey there 👋, I'm Aidan!
+### I am Aidan, a 17 year old discord bot developer! I have worked on many projects ranging from discord bots to full stack websites with secure login panels.
 
 # About Me
 - 🔭 I’m currently working on Pyro Development
