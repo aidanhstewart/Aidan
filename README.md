@@ -4,7 +4,7 @@
 # About Me
 - 🔭 I’m currently working on Pyro Development
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: Aidan.#6833 on discord!
+- 📫 How to reach me: Aidan.#0002 on discord!
 - 😄 Portfolio: http://zoxide.xyz
 - ⚡ Fun fact: The fastest I can type is 120 WPM
 
