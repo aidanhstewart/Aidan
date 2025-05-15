@@ -13,3 +13,5 @@
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=zoxide&show_icons=true&count_private=true&theme=prussian&line_height=32">
 </p>
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
