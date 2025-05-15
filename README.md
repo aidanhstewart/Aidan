@@ -2,7 +2,7 @@
 ### I am Aidan, a 20 year old developer! I have worked on many projects ranging from discord bots to full stack websites with secure login panels.
 
 # About Me
-- 🔭 I’m currently working on TerminalGambling
+- 🔭 I’m currently working on College Work
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: .zoxide on discord!
 - ⚡ Fun fact: The fastest I can type is 131 WPM & My average is 116 WPM
